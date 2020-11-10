@@ -9,11 +9,12 @@ Insight Data Challenge Practices (20C.DS.SV)
 
 ## Challenge 4 Customer Cliff Dive (Yammer)
 **Please limit yourself to 4 hours time!**  
-## time-series analysis and visualization on Bokeh
+keywords: time-series analysis and visualization on Bokeh, auto
 
 ## Challenge 1 Breast Cancer Cell Detection
 **Please limit yourself to 1.5 hours time!**  
- 
+keywords: classification, feature selection, auto
+
 *You belong to the data team at a local research hospital. You've been tasked with 
 developing a means to help doctors diagnose breast cancer. You've been given data 
 about biopsied breast cells; where it is benign (not harmful) or malignant (cancerous).*   
