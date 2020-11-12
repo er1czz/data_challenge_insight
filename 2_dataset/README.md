@@ -1,4 +1,4 @@
-# Video Game Sales
+# Software Pricing
 
 ## Goal
 
