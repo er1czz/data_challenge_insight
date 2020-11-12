@@ -11,7 +11,7 @@ Insight Data Challenge Practices (20C.DS.SV)
 **Please limit yourself to 4 hours time!**  
 keywords: time-series analysis and visualization on Bokeh, auto
 
-## Data Challenge 2 - Pricing Test
+## Challenge 2 - Pricing Test
 **Please limit yourself to 4 hours time!**
 keywords:A/B testing
 
