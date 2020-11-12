@@ -1,48 +1,5 @@
 # Software Pricing
 
-## Goal
-
-You work for a data science consulting company. A major video game production company, has retained your firm to conduct market research into the video game industry. They've furnished you with video game sales data for the last thirty years (described below) and, as a first project, would like to know:
-
-1. What are some major differences between the North American, European, and Japanese video game markets?
-
-2. What video game genres are trending in each market? 
-
-3. What features about a video game are most indicative of its success?
-
-
-## Data Description
-
-This dataset contains a list of video games with sales greater than 100,000 copies.
-
-Rank - Ranking of overall sales
-
-Name - The games name
-
-Platform - Platform of the games release (i.e. PC,PS4, etc.)
-
-Year - Year of the game's release
-
-Genre - Genre of the game
-
-Publisher - Publisher of the game
-
-NA_Sales - Sales in North America (in millions)
-
-EU_Sales - Sales in Europe (in millions)
-
-JP_Sales - Sales in Japan (in millions)
-
-Other_Sales - Sales in the rest of the world (in millions)
-
-Global_Sales - Total worldwide sales.
-
-
-## Goal
-Pricing optimization is, non surprisingly, another area where data science can provide huge value.
-
-The goal here is to evaluate whether a pricing test running on the site has been successful. As always, you should focus on user segmentation and provide insights about segments who behave differently as well as any other insights you might find.
-
 ## Challenge Description
 Company XYZ sells a software for $39. Since revenue has been flat for some time, the VP of Product has decided to run a test increasing the price. She hopes that this would increase revenue. In the experiment, 66% of the users have seen the old price ($39), while a random sample of 33% users a higher price ($59).
 
