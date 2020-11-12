@@ -11,6 +11,10 @@ Insight Data Challenge Practices (20C.DS.SV)
 **Please limit yourself to 4 hours time!**  
 keywords: time-series analysis and visualization on Bokeh, auto
 
+## Data Challenge 2 - Pricing Test
+**Please limit yourself to 4 hours time!**
+keywords:A/B testing
+
 ## [Challenge 1 Breast Cancer Cell Detection](https://github.com/er1czz/data_challenge_insight/blob/main/4_CustomerCliffDive.ipynb)
 **Please limit yourself to 1.5 hours time!**  
 keywords: classification, feature selection, auto
