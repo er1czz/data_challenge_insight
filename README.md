@@ -1,5 +1,6 @@
 # data_challenge_insight
 Insight Data Challenge Practices (20C.DS.SV)
+https://github.com/Insight-DS-West
 
 ## Key Component of a good data challenge submission
 1. EDA  (Exploratory Data Analysis)  
