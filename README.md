@@ -8,6 +8,10 @@ https://github.com/Insight-DS-West
 3. Level Up (additional features, tuning hyperparameters)   
 4. Communication (code easy to read, well-written markdown, organized structure)
 
+## [Challenge 5 Credit Card User Segmentation](https://er1czz.github.io/data_challenge_insight/5_CreditCard_userSegmentation.ipynb)
+**Please limit yourself to 4 hours time!**  
+keywords: user segementation, clustering, Elbow method
+
 ## [Challenge 4 Customer Cliff Dive (Yammer)](https://er1czz.github.io/data_challenge_insight/4_CustomerCliffDive.html)
 **Please limit yourself to 4 hours time!**  
 keywords: time-series analysis and visualization on Bokeh, auto
