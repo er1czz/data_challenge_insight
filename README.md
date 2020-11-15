@@ -15,6 +15,11 @@ keywords: user segementation, clustering, Elbow method
 **Please limit yourself to 4 hours time!**  
 keywords: time-series analysis and visualization on Bokeh, auto
 
+## Challenge 3 - Recipe2Cuisine
+[Source: Kaggle](https://www.kaggle.com/c/whats-cooking-kernels-only)
+**Please limit yourself to 4 hours time!**  
+keywords: topic analysis, 
+
 ## Challenge 2 - Pricing Test
 **Please limit yourself to 4 hours time!**  
 keywords: A/B testing
