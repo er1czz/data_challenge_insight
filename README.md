@@ -8,7 +8,7 @@ https://github.com/Insight-DS-West
 3. Level Up (additional features, tuning hyperparameters)   
 4. Communication (code easy to read, well-written markdown, organized structure)
 
-## [Challenge 5 Credit Card User Segmentation](https://er1czz.github.io/data_challenge_insight/5_CreditCard_userSegmentation.ipynb)
+## [Challenge 5 Credit Card User Segmentation](https://github.com/er1czz/data_challenge_insight/blob/main/5_CreditCard_userSegmentation.ipynb)
 **Please limit yourself to 4 hours time!**  
 keywords: user segementation, clustering, Elbow method
 
