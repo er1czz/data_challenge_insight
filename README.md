@@ -13,7 +13,7 @@ keywords: user segementation, clustering, Elbow method
 
 ## [Challenge 4 Customer Cliff Dive (Yammer)](https://er1czz.github.io/data_challenge_insight/4_CustomerCliffDive.html)
 **Please limit yourself to 4 hours time!**  
-keywords: time-series analysis and visualization on Bokeh, auto
+keywords: time-series analysis and visualization on Bokeh, auto  
 Additional reading: https://mode.com/sql-tutorial/a-drop-in-user-engagement/
 
 ## Challenge 3 - Recipe2Cuisine
